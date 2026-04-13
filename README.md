@@ -143,12 +143,20 @@ Change:
 
 ```
 app: blue → app: green
+```
 
-📸 Before Switching (Blue Active)
+---
+
+ 📸 Screenshots
+
+ 📸 Before Switching (Blue Active)
 ![Blue-selector](selector-blue.png)
 change this blue to green
 ![green-selector](selector-green.png)
-```
+
+---
+
+
 
 👉 Traffic instantly shifts to **Green (v2)**
 
